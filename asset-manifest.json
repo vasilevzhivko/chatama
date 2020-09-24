@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.b7fd38b1.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.b7fd38b1.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.3f19f3c1.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.3f19f3c1.js.map",
-    "static/js/2.5264ddd1.chunk.js": "/react-gh-pages/static/js/2.5264ddd1.chunk.js",
-    "static/js/2.5264ddd1.chunk.js.map": "/react-gh-pages/static/js/2.5264ddd1.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.be2f0232c52bd5afb305280d88d66eb0.js": "/react-gh-pages/precache-manifest.be2f0232c52bd5afb305280d88d66eb0.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5264ddd1.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.5264ddd1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/chatama/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chatama/static/js/main.44a7cd1b.chunk.js",
+    "main.js.map": "/chatama/static/js/main.44a7cd1b.chunk.js.map",
+    "runtime-main.js": "/chatama/static/js/runtime-main.7ea9f43e.js",
+    "runtime-main.js.map": "/chatama/static/js/runtime-main.7ea9f43e.js.map",
+    "static/js/2.5264ddd1.chunk.js": "/chatama/static/js/2.5264ddd1.chunk.js",
+    "static/js/2.5264ddd1.chunk.js.map": "/chatama/static/js/2.5264ddd1.chunk.js.map",
+    "index.html": "/chatama/index.html",
+    "precache-manifest.278ecd57dafd03969ed1488380fef24d.js": "/chatama/precache-manifest.278ecd57dafd03969ed1488380fef24d.js",
+    "service-worker.js": "/chatama/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/chatama/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5264ddd1.chunk.js.LICENSE.txt": "/chatama/static/js/2.5264ddd1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chatama/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f19f3c1.js",
+    "static/js/runtime-main.7ea9f43e.js",
     "static/js/2.5264ddd1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b7fd38b1.chunk.js"
+    "static/js/main.44a7cd1b.chunk.js"
   ]
 }
