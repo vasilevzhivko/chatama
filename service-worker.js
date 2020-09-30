@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chatama/precache-manifest.278ecd57dafd03969ed1488380fef24d.js"
+  "/chatama/precache-manifest.75285750199b3708406284035cb4c1de.js"
 );
 
 self.addEventListener('message', (event) => {
