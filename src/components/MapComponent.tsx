@@ -1,13 +1,32 @@
-import React from 'react';
-import { GoogleMap, Marker } from "react-google-maps"
+import React from 'react'
+import { GoogleMap, LoadScript } from '@react-google-maps/api';
 
-const MapComponent = (props) => {
-  // eslint-disable-next-line @typescript-eslint/no-unused-expressions
-  <GoogleMap
-    defaultZoom={8}
-    defaultCenter={{ lat: -34.397, lng: 150.644 }}
-  >
-    {props.isMarkerShown && <Marker position={{ lat: -34.397, lng: 150.644 }} />}
-  </GoogleMap>
+const { innerWidth: width, innerHeight: height } = window;
+
+const containerStyle = {
+  width: width,
+  height: height
+};
+
+
+const center = {
+  lat: 41.80931,
+  lng: 24.090655
+};
+
+function MyComponent() {
+  return (
+    <LoadScript
+      googleMapsApiKey="AIzaSyDKGNcNwkNJJBopC_7-8CJj8QqjFpaDj78"
+    >
+      <GoogleMap
+        mapContainerStyle={containerStyle}
+        center={center}
+        zoom={20}
+      >
+      </GoogleMap>
+    </LoadScript>
+  )
 }
-export default MapComponent;
+
+export default React.memo(MyComponent)
