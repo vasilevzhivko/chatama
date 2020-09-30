@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e630ee364057ca919a8475773b6d74f",
+    "revision": "60e3389ef16965f62528df2d0c551c7c",
     "url": "/chatama/index.html"
   },
   {
-    "revision": "6b6c430635685ed419b4",
+    "revision": "36bd0ac4da022690c7a4",
     "url": "/chatama/static/css/main.775976bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chatama/static/js/2.a9b722c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b6c430635685ed419b4",
-    "url": "/chatama/static/js/main.8d9a7a69.chunk.js"
+    "revision": "36bd0ac4da022690c7a4",
+    "url": "/chatama/static/js/main.f9d16704.chunk.js"
   },
   {
     "revision": "b6418b9e9df532681835",
