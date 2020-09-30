@@ -22,7 +22,7 @@ function MyComponent() {
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}
-        zoom={20}
+        zoom={19}
       >
       </GoogleMap>
     </LoadScript>
